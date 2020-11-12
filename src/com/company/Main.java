@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello Git Last Day");
 // b21 one love
-// b21 vita
+// b21 vitas
 // b21 testersss
 
 
